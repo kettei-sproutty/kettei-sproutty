@@ -22,8 +22,11 @@ let alessio = About {
   hobbies: vec!["Webtoons", "History", "Travel"],
 };
 ```
-<p>I Rust, Typescript and the open-source philosophy, the community and everything that revolves around it, and I promised myself that over time I would contribute a little more every day.</p>
+
+<p>I love Rust, Typescript and the open-source philosophy, the community and everything that revolves around it, and I promised myself that over time I would contribute a little more every day.</p>
+
 <br />
+
 <div align="center">
   <a href="https://github.com/kettei-sproutty/kettei-sproutty">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kettei-sproutty&theme=dark" />
